@@ -132,4 +132,5 @@ dmypy.json
 .idea/
 
 # other
-.test.py
+test.py
+.get_sid.py
